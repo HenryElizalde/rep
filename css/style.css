@@ -42,7 +42,7 @@
 
 .chat-box {
     padding: 20px;
-    height: 680px;
+    height: 620px;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
